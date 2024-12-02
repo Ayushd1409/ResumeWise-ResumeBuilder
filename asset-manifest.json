@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ResumeWise-ResumeBuilder/static/css/main.719083d2.css",
+    "main.js": "/ResumeWise-ResumeBuilder/static/js/main.521e6d21.js",
+    "static/media/hero.svg": "/ResumeWise-ResumeBuilder/static/media/hero.4246c7b31fe09afda1e2624a9fbc59f8.svg",
+    "index.html": "/ResumeWise-ResumeBuilder/index.html",
+    "main.719083d2.css.map": "/ResumeWise-ResumeBuilder/static/css/main.719083d2.css.map",
+    "main.521e6d21.js.map": "/ResumeWise-ResumeBuilder/static/js/main.521e6d21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719083d2.css",
+    "static/js/main.521e6d21.js"
+  ]
+}
